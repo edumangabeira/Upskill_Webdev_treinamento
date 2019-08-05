@@ -3,6 +3,7 @@
                     black
 fontes: Bangers google fonts;
 */
+
 header{
     color: black;
     font-size: 1.5em;
@@ -37,10 +38,9 @@ footer{
     width: 200px;
 
 }
-.listadecompras{
-    text-align: center;
+.listaDeCompras label{
     color: #C91F37;
-
+    display: inline-block;
+    width: 170px;
+    text-align: center;
 }
-
-
